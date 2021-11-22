@@ -42,7 +42,7 @@ const filterContainer=document.querySelector(".portfolio-filter"),
 
 
 // Portfolio Lightbox
-const lightbox=document.querySelector(".lightbox"),
+/*const lightbox=document.querySelector(".lightbox"),
     lightboxImg=lightbox.querySelector(".lightbox-img"),
     lightboxClose=lightbox.querySelector(".lightbox-close"),
     lightboxText=lightbox.querySelector(".caption-text"),
@@ -93,7 +93,7 @@ if(event.target === lightboxClose || event.target === lightbox){
     toggleLightbox();
 }
 
-}) 
+}) */
 
 
 // Aside Navbar
